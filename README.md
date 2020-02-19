@@ -118,7 +118,7 @@ Install all dependencies at once on OSX:
 
 Clone recursively to pull-in needed submodule(s):
 
-`$ git clone https://github.com/ElSamaritan/galaxia
+`$ git clone https://github.com/ElSamaritan/galaxia`
 
 If you already have a repo cloned, initialize and update:
 
@@ -135,7 +135,7 @@ invokes cmake commands as needed.
 * Install the dependencies
 * Change to the root of the source code directory and build:
 
-        `$ cd galaxia && make`
+        $ cd galaxia && make
 
 
     *Optional*: If your machine has several cores and enough memory, enable
